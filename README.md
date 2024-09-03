@@ -16,6 +16,6 @@ I'm Alp Yusuf Çilo from Turkey, and I do write smart contracts. I started to do
 - ⚡ Fun fact: Philosophy and Fantasy lover.
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojunchian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojunchian&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
