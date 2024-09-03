@@ -2,6 +2,12 @@
 
 I'm Alp Yusuf Çilo from Turkey, and I do write smart contracts. I started to do that because when I looked at web3 I see equality for everyone and future of economy therefore I want it to be part of it. I used Solidity and Javascript so far. I have a good understanding on Solidity and Javascript.
 
+## Skills and Experience
+* 📝 Solidity
+* 🌐 Javascript
+
+* Other than helping people on reddit, discord and telegram there's no official experience.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojunchian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
