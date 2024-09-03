@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Alp from Turkey, and I do write smart contracts. I started to do that because when I looked at web3 I see equality for everyone and future of economy therefore I want it to be part of it. I used Solidity and Javascript so far. I have a good understanding on Solidity but not much on Javascript. You can checkout my twitter twitter.com/alpcwork
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojunchian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
